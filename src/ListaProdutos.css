@@ -1,0 +1,45 @@
+.container {
+    border: solid 1px #c8a2c8;
+    width: 80vw;
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    background-color: #f9f9f9;
+}
+
+.botao {
+    border-width: 0.5px;
+    border: solid rgb(75, 0, 130);
+    background-color: white;
+}
+
+.header {
+    font-size: 24px;
+    font-weight: bold;
+    margin-bottom: 20px;
+    text-align: center;
+    color: #4b0082;
+    display: flex;
+    justify-content: space-between;
+}
+
+.produtoItem {
+    display: flex;
+    justify-content: space-between;
+    padding: 10px;
+    border-bottom: 1px solid #ddd;
+}
+
+.produtoNome {
+    font-size: 18px;
+    color: #333;
+}
+
+.produtoValor {
+    font-size: 18px;
+    color: #333;
+}
+
+.produtoHeader {
+    font-weight: bold;
+}
