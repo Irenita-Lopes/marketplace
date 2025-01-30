@@ -1,4 +1,6 @@
 Projeto de Gestão de Produtos
+
+
 Este é um projeto em React para gerenciar uma lista de produtos, permitindo ao usuário adicionar novos produtos, visualizar a lista de produtos cadastrados e ordenar a lista por valor.
 
 Funcionalidades
